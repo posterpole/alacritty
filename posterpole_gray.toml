@@ -25,11 +25,3 @@ yellow = '#D9AC8C'
 [colors.selection]
 background = '#4D4D4D'
 foreground = '#AFA79D'
-
-[[colors.indexed_colors]]
-index = 16
-color = '#CC9166'
-
-[[colors.indexed_colors]]
-index = 17
-color = '#854747'
